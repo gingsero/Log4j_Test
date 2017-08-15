@@ -1,0 +1,5 @@
+[ERROR], 2017-08-15 21:51:01, MainLog4j main class error message. 
+ [INFO], 2017-08-15 21:51:01, MainLog4j main class info message. 
+ [FATAL], 2017-08-15 21:51:01, MainLog4j main class fatal message. 
+ [WARN], 2017-08-15 21:51:01, MainLog4j main class warn message. 
+ 
